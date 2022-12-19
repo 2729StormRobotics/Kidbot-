@@ -4,6 +4,7 @@
 
 package frc.robot.subsystems;
 
+<<<<<<< Updated upstream
 import static frc.robot.Constants.*;
 
 import com.ctre.phoenix.CTREJNIWrapper;
@@ -111,6 +112,15 @@ m_encoder.setVelocityConversionFactor(1);
 
 
 
+=======
+import edu.wpi.first.wpilibj2.command.SubsystemBase;
+
+public class Shooter extends SubsystemBase {
+  /** Creates a new Shooter. */
+  public Shooter() {}
+
+  private final 
+>>>>>>> Stashed changes
 
 
   @Override
