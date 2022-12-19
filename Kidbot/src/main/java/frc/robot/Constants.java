@@ -18,6 +18,9 @@ package frc.robot;
  */
 public final class Constants {
 
+double kPistonRetractedValue = 0;}
+
+
     public static final class driveTrainConstants {
 
         public static final int kRightMotorDeviceNumber = 0; // stand in - dont have actual device number yet
