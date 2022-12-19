@@ -23,13 +23,13 @@ double kPistonRetractedValue = 0;}
 
     public static final class driveTrainConstants {
 
-        public static final int kRightMotorDeviceNumber = 0; // stand in - dont have actual device number yet
-        public static final int kLeftMotorDeviceNumber = 0; // stand in - dont have actual device number yet
+        public static final int kRightMotorDeviceNumber = 13; // no longer stand in :) 
+        public static final int kLeftMotorDeviceNumber = 2; // no longer stand in :) 
 
     }
 
 public static final class DriveConstants{
-    public static final int kDriverControllerPort = 0;  //stand in = don't have port number yet
+    public static final int kDriverControllerPort = 0;  //no longer stand in :^)
 }
 
 }
